@@ -1,5 +1,9 @@
-# FormaEngine
+<p align="center">
+  <img src="FormaEngine-Logo.svg" alt="FormaEngine" width="240" />
+</p>
 
-Adaptive UX Orchestrator
+<h2 align="center">Adaptive UX Orchestrator</h2
 
-Forma Engine is an LLM-driven system that composes, delivers, and evolves user interfaces in real time. An orchestrator assembles experiences from declarative building blocks and adapts them continuously to the Client session experience.
+---
+
+Forma is the foundational interface engine shaping the future of product design.
