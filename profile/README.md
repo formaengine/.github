@@ -2,7 +2,7 @@
   <img src="FormaEngine-Logo.svg" alt="FormaEngine" width="240" />
 </p>
 
-<h2 align="center">Adaptive UX Orchestrator</h2>
+<p align="center"><strong>Adaptive UX Orchestrator</strong></p>
 
 <br>
 
