@@ -6,4 +6,4 @@
 
 ---
 
-Forma is the foundational interface engine shaping the future of product design.
+Forma is the engine for Adaptive UX Orchestration.
