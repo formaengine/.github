@@ -6,5 +6,3 @@
 
 <br>
 
-
-Forma is the engine for Adaptive UX Orchestration.
